@@ -18,6 +18,11 @@ body{
     display: flex;
     flex-direction: column;
     align-items: center;
+    padding: 30vh;
+}
+
+.cor-nav{
+    background-color: darkred;
 }
 
 .titulo__página{
