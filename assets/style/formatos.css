@@ -60,3 +60,28 @@ body{
     background-color: #000000;
     width: 100%;
 }
+
+/* PÀGINA DE RECEITAS */
+
+.altura-cards{
+    height: 43vw;
+}
+
+.card-largura{
+    max-width: 18rem;
+    max-height: 32rem;
+}
+
+.card-posicao-imagem{
+    object-fit: cover;
+    height: 200px;
+}
+
+.titulo-card{
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
+.itens:before{
+	content: "•";
+}
